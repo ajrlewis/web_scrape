@@ -1,0 +1,6 @@
+loguru
+pytest
+python-dotenv
+selenium
+beautifulsoup4
+httpx
